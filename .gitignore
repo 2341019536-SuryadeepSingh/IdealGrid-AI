@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# Trained/generated files
+models/*.pkl
+models/*.json
+data/processed/
+venv/
+__pycache__/
+*.pyc
+.env
