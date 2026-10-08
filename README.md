@@ -2,7 +2,7 @@
 
 AI-powered regional electricity demand forecasting, anomaly intelligence, and analytical generation-balance insights.
 
-## Important data-unit decision (Choice A)
+## Important data-unit decision 
 
 The regional generation dataset contains **daily generation values in MU/day**, while the demand dataset is **hourly demand in MW**. The dashboard therefore converts daily generation to a **daily-average MW equivalent**:
 
