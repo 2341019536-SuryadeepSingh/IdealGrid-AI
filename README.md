@@ -58,4 +58,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The included model files are already trained. Run `python train.py` again only if you change the source datasets or model configuration.
